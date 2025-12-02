@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 // Target URLs
 const TARGETS = [
-  'https://unframed-9znt.onrender.com/health',
+  'https://unframed-9znt.onrender.com/ping',
   'https://cron-jobs-39jq.onrender.com/'  // Self-ping to stay awake
 ];
 
